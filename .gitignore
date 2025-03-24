@@ -1,0 +1,8 @@
+.qtcreator/
+.venv/
+__pycache__/
+faceDetectionLock.py
+faceDetectionVideoPreview.py
+faceLock.pyproject
+faceLock.pyproject.user
+log.txt
